@@ -1,0 +1,13 @@
+{
+  "name": "nilma-alves-skills",
+  "owner": { "name": "Nilma Alves Advocacia", "email": "thaischaly@gmail.com" },
+  "description": "12 skills para gestão completa do escritório Nilma Alves Advocacia.",
+  "plugins": [{
+    "name": "nilma-alves-skills",
+    "source": { "source": "github", "repo": "thaischaly-tech/nilma-alves-skills" },
+    "description": "12 skills cobrindo produção jurídica, comercial, marketing e automação — nicho Família, Sucessões e Imobiliário.",
+    "version": "1.0.0",
+    "author": { "name": "Nilma Alves Advocacia" },
+    "keywords": ["advocacia", "familia", "sucessoes", "imobiliario", "juridico", "pecas", "leads", "marketing"]
+  }]
+}
